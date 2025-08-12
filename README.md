@@ -1,7 +1,5 @@
 # 🧠 Machine Learning Studies
 
-Este repositório contém meus estudos em Machine Learning com base no curso da plataforma [Nome do Curso/Instituição se desejar].
-
 Organizado por módulos, ele cobre desde os fundamentos de Python para Data Science até modelos avançados como Redes Neurais e Random Forest.
 
 ## 📚 Estrutura dos Conteúdos
